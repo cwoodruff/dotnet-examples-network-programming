@@ -4,89 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc6bf29-86c7-4d58-8ae1-68f486bc9977" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/.idea/.idea.backend-long-running-query/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/.idea/.idea.backend-long-running-query/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/.idea/.idea.backend-long-running-query/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/.idea/.idea.backend-long-running-query/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/.idea/.idea.backend-long-running-query/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Controllers/QueryController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Data/MyDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Hubs/QueryHub.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Models/QueryJob.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Services/BackgroundJobQueue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Services/IBackgroundJobQueue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/Services/QueryProcessingService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/backend-long-running-query.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend-long-running-query/backend-long-running-query/backend-long-running-query.http" afterDir="false" />
-    </list>
+    <list default="true" id="d13083cb-8db2-4d01-99ca-2dce7250516d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="TypeScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="2sVg8o2skB8BHZg3iVufiyMGeDI" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sWsrY1csKbbueaj2QuIHY8plK3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.npm start.executor": "Debug",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/cwoodruff/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm dev.executor&quot;: &quot;Debug&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Volumes/extra/projects/frontend-long-running-query/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm start">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="npm start" type="js.build_tools.npm">
+  <component name="RunManager">
+    <configuration name="npm dev" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="start" />
+        <script value="dev" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -103,28 +64,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4dc6bf29-86c7-4d58-8ae1-68f486bc9977" name="Changes" comment="" />
+      <changelist id="d13083cb-8db2-4d01-99ca-2dce7250516d" name="Changes" comment="" />
       <created>1706534498206</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706534498206</updated>
       <workItem from="1706534501159" duration="20000" />
-      <workItem from="1738545999555" duration="5194000" />
+      <workItem from="1738582865822" duration="11000" />
+      <workItem from="1738582889973" duration="2276000" />
+      <workItem from="1738585670010" duration="1750000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
